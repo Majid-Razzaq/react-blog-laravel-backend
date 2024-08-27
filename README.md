@@ -10,8 +10,8 @@ The backend of this blog website is built using Laravel, a powerful PHP framewor
 
 ## Features
 
-- **RESTful API: ** Provides endpoints for CRUD operations (Create, Read, Update, Delete) for managing blog posts.
-- **Database Management: ** Utilizes MySQL for storing blog data, with Eloquent ORM for smooth and secure database interactions.
+- **RESTful API:** Provides endpoints for CRUD operations (Create, Read, Update, Delete) for managing blog posts.
+- **Database Management:** Utilizes MySQL for storing blog data, with Eloquent ORM for smooth and secure database interactions.
 
 
 ## Requirements
