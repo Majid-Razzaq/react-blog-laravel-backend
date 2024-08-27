@@ -4,7 +4,7 @@
     </a>
 </p>
 
-## Book Reviews App
+## React Laravel Blog Backend
 
 The backend of this blog website is built using Laravel, a powerful PHP framework that serves as the foundation for all server-side operations. In this project, Laravel is utilized to create a robust RESTful API that handles all aspects of blog management, including storing, editing, updating, and deleting blog posts in a MySQL database.
 
